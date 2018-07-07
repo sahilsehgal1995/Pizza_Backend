@@ -1,0 +1,90 @@
+{
+  "initialize": true,
+  "messages":[
+    {
+      "status": 200,
+      "message": "Ok",
+      "key": "success"
+    },
+    {
+      "status": 201,
+      "message": "Created",
+      "key": "success"
+    },
+    {
+      "status": 202,
+      "message": "Accepted",
+      "key": "success"
+    },
+    {
+      "status": 203,
+      "message": "Non-Authoritative Information",
+      "key": "error"
+    },
+    {
+      "status": 204,
+      "message": "No Content",
+      "key": "success"
+    },
+    {
+      "status": 300,
+      "message": "Multiple Choices",
+      "key": "success"
+    },
+    {
+      "status": 301,
+      "message": "Moved Permanently",
+      "key": "success"
+    },
+    {
+      "status": 302,
+      "message": "Found",
+      "key": "success"
+    },
+    {
+      "status": 304,
+      "message": "Not Modified",
+      "key": "success"
+    },
+    {
+      "status": 400,
+      "message": "Unauthorized",
+      "key": "error"
+    },
+    {
+      "status": 403,
+      "message": "Forbidden",
+      "key": "error"
+    },
+    {
+      "status": 405,
+      "message": "Method Not Allowed",
+      "key": "error"
+    },
+    {
+      "status": 404,
+      "message": "Not Found",
+      "key": "error"
+    },
+    {
+      "status": 406,
+      "message": "Not Accepted",
+      "key": "error"
+    },
+    {
+      "status": 422,
+      "message": "Unproccessed Entity",
+      "key": "error"
+    },
+    {
+      "status": 500,
+      "message": "Internal Server Error",
+      "key": "error"
+    },
+    {
+      "status": 501,
+      "message": "Not Implemented",
+      "key": "error"
+    }
+  ]
+}

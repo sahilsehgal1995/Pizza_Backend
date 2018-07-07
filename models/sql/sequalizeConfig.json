@@ -1,0 +1,12 @@
+{
+    "development": {
+        "username": "root",
+        "password": "root",
+        "database": "test_api",
+        "host": "localhost",
+        "dialect": "mysql",
+        "dialectOptions": {
+            "multipleStatements": true
+        }
+    }
+}
